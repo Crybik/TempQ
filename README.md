@@ -26,5 +26,5 @@ To use the new features:
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/Crybik/TempQ/)
+   git clone https://github.com/Crybik/TempQ/
    cd TempQ
